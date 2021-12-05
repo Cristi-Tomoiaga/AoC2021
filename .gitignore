@@ -1,0 +1,9 @@
+# Input files
+/Day*/input.txt
+
+# IDE files
+/Day*/.idea
+/.idea
+
+# Misc
+/*.txt
