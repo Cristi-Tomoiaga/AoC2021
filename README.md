@@ -3,7 +3,7 @@
 My personal solutions to the [Advent of Code 2021](https://adventofcode.com/2021/) puzzles using Python 3.10.0
 
 Each day has a folder with the code (in general[^1] `main.py`) and the test input from the problem statement.
-The code for the majority of the puzzles is the final version for part 2, with some exceptions where I kept both parts independent.
+The source code contains either both parts independent or the final solution for part 2.
 
 ## Testing the solutions
 
